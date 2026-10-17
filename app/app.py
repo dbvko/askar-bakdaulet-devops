@@ -14,3 +14,5 @@ print(f"Group: {group}")
 print(f"Student ID: {student_id}")
 print("==============================")
 
+print("Environment: development")
+
