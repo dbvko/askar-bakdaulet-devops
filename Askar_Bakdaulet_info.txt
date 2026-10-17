@@ -1,0 +1,5 @@
+Name: Bakdaulet
+Surname: Askar
+Group: IT2-2306
+Student ID: 38030
+Course: DevOps
